@@ -1,0 +1,5 @@
+{
+     "rewrites": [
+       { "source": "/api/:path*", "destination": "https://swapwear-fable01.onrender.com/api/:path*" }
+     ]
+   }
