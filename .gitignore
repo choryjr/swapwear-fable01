@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Builds
+frontend/dist/
+
+# Secretos — NUNCA subir
+backend/.env
+.env
+.env.local
+
+# Base de datos local
+backend/data/
+
+# Sistema
+.DS_Store
+*.log
